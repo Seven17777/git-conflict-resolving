@@ -1,2 +1,11 @@
-# git-conflict-resolving
-Data Engineering Fall 2026 - Exercise 3: resolving merge conflicts (individual practice with two accounts).
+# Exercise 3: Resolving Conflicts
+
+Account A: Seven17777
+Account B: shangsousa-coder
+Mode: individual practice using two accounts controlled by one student.
+
+## Shared project plan
+
+Pipeline priority: baseline
+
+Both accounts will branch from this exact version and change the priority line differently. A merges first; B then merges main into the second branch and resolves the conflict by preserving both contributions.
